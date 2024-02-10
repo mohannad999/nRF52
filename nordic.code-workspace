@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"nrf-connect.applications": [
+			"${workspaceFolder}\\01_Blink",
+			"${workspaceFolder}\\02_Button_Pooling",
+			"${workspaceFolder}\\03_Button_Interrupt",
+			"${workspaceFolder}\\04_fund_less3_exer1",
+			"${workspaceFolder}\\05_fund_less3_exer2",
+			"${workspaceFolder}\\06_fund_less4_exer1",
+			"${workspaceFolder}\\07_fund_less4_exer2",
+			"${workspaceFolder}\\08_fund_less4_exer3",
+			"${workspaceFolder}\\09_fund_less5_exer1",
+			"${workspaceFolder}\\bt-fund\\lesson1\\blefund_less1_exer1",
+			"${workspaceFolder}\\bt-fund\\lesson2\\blefund_less2_exer1",
+			"${workspaceFolder}\\bt-fund\\lesson2\\blefund_less2_exer2",
+			"${workspaceFolder}\\bt-fund\\lesson2\\blefund_less2_exer3",
+			"${workspaceFolder}\\bt-fund\\lesson3\\blefund_less3_exer1",
+			"${workspaceFolder}\\bt-fund\\lesson3\\blefund_less3_exer2",
+			"${workspaceFolder}\\bt-fund\\lesson4\\blefund_less4_exer1",
+			"${workspaceFolder}\\dwm1001\\examples\\ex_01a_simple_tx"
+		],
+		"files.associations": {
+			"myfunction.h": "c"
+		}
+	}
+}

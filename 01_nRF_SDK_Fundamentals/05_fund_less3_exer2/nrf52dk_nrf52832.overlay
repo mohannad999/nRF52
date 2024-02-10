@@ -1,0 +1,2 @@
+/*  the file name must be the same name as the target board, and
+ the file must end with .overlay : <board_name>.overlay */
